@@ -32,3 +32,33 @@ This project uses machine learning to predict race positions based on historical
 - Install required libraries:
   ```bash
   pip install pandas numpy matplotlib seaborn scikit-learn xgboost plotly ipywidgets joblib
+• 	If using Google Colab, run:
+
+
+2️⃣ Prepare Files
+• 	Place the zipped dataset  in the project directory.
+• 	Unzip the dataset to create the  folder containing:
+• 	
+• 	
+• 	
+
+3️⃣ Run the Code
+• 	Open the Jupyter Notebook or Python script in Jupyter or Google Colab.
+• 	Ensure the dataset path is correct:
+
+• 	Execute the code cells sequentially to perform:
+• 	Data loading
+• 	Preprocessing
+• 	Visualization
+• 	Model training
+• 	Predictions
+• 	For interactive predictions, use the widget interface at the end to input feature values and predict race positions.
+
+4️⃣ View Outputs
+• 	Visualizations such as plots and heatmaps will display inline in Jupyter or Colab.
+
+📂 Project Structure (Optional)
+
+
+Feel free to customize this README with additional sections like Project Overview, Results, or License. Want help writing those too?
+
